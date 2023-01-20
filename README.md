@@ -1,6 +1,5 @@
-# Real Estate App
-LIVE SITE
-https://www.twiz-real-estate.ga/
+#Real Estate App
+### [Live Site](https://twiz-real-estate.vercel.app/)
 
 
 
